@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JohnFlowers78
 - 🌱 I'm currently learning JavaScript and TypeScript with APIs and ORMs and React Components.
-- But I decided to stop using these languages ​​for a while to fulfill and study C# + React and
-- Kotlin because my university has subjects that require these languages.
+- But I decided to stop using these languages ​​for a while to fulfill and study C# + React and Kotlin because my university has subjects that require these languages.
 ____________________
 
 - 📫 How to reach me ¬
