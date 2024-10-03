@@ -1,16 +1,12 @@
-- 👋 Hi, I’m @JohnFlowers78
-- 🌱 I'm currently learning JavaScript and TypeScript with APIs, ORMs and React Components.
-- But I decided to stop using these languages ​​for a while to fulfill and study C# + React and Kotlin because my university has subjects that require these languages.
-- .NET +  C#  +  Kotlin   --->   ( + XCode? )
-____________________
+- 👋 Hi, I'm @JohnFlowers78
+- 🌱 I'm currently learning JavaScript and TypeScript with Web Services, ORMs and React Components.
+- But I decided to stop using these languages ​​for a while to dedicate myself and study C# + React and Kotlin because my university has subjects that require these languages:
+- For the .Net and C# subject, we are developing a Minimal API using AspNetCore.Mvc, EntityFramework (ORM), DB. On the Front side, we will use (it hasn't happened yet) Node.Js with React to deal with the reuse of components such as Footer or NavBar.
+- Kotlin (with fragments, Viewers and DB). ____________________
 
-- 📫 How to reach me ¬
+- 📫 How to contact me ¬
 --------------------
-- 📧 Send-me an e-Mail:  jpsflores2000@gmail.com
-- 
+- 📧 Send me an email: jpsflores2000@gmail.com
 -
-- 👀 I’m interested in Any Type of work with development, i know how to do a lot os things and i really estou me enrolando para conseguir logo my first work in the área tech
-- <!---
-JohnFlowers78/JohnFlowers78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-
+- 👀 I’m interested in Any Type of work with development, i know how to do a lot os things and i really estou me enrolando para conseguir logo my first work in the área tech.
