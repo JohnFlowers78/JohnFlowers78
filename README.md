@@ -8,9 +8,9 @@
 
 📫 How to contact me ¬
 --------------------
-- **🧩 WhatsApp: +55 41 98805-5191**
-- **📧 Email: jpsflores2000@gmail.com**
-- **👤 LinkedIn: linkedin.com/in/johnflowers78**
+- **🧩 WhatsApp   -   +55 41 98805-5191**
+- **📧 Email   -   jpsflores2000@gmail.com**
+- **👤 LinkedIn   -   linkedin.com/in/johnflowers78**
   
 👀 I'm open to any kind of dev work (I don’t really like front-end, but if that’s what’s on the table, I’ll handle it 🤷‍♂️).
 
