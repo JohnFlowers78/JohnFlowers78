@@ -4,7 +4,7 @@
 
 **💻 Current Studies:**
 - C# + .NET: Developing a Minimal API with ASP.NET Core MVC, Entity Framework, and a database. On the front-end, I'm using Node.js and React to implement reusable components like footers and navigation bars.
-- Kotlin: Working with Fragments, Viewers, and database integration.
+- Kotlin: Working with Fragments, Viewers, Room + SQLite (for database integration). I can work with Compose too!
 
 📫 How to contact me ¬
 --------------------
