@@ -9,4 +9,4 @@
 **🌐 About me:**
 - My English is not fluent, but I can get by in almost all situations, especially with technology stuff. Coding helped me a lot because I read a lot of docs and resources in English. I really like figuring out how things work, and I enjoy learning deeply when I can. Maybe "almost all situations" it isn't with the frequency necessary that i imagine for works at developments, but i'm here to try.
 
-- Esse Read-Me não está pronto, esta neste estado apenas para não ficar em branco!
+- Testando...
