@@ -1,16 +1,8 @@
-**👋 Hello, I'm @JohnFlowers78**
-🌱 I'm currently focused on learning C# with .NET and React, as well as Kotlin for mobile development.
-- I have experience in JavaScript and TypeScript, and have worked on projects involving Web Services, ORMs, and React Components.
-
-**💻 Current Studies:**
-- C# + .NET: Developing a Minimal API with ASP.NET Core MVC, Entity Framework, and a database. On the front-end, I'm using Node.js and React to implement reusable components like footers and navigation bars.
-- Kotlin: Working with Fragments, Viewers, Room + SQLite (for database integration). I can work with Compose too!
-
 📫 How to contact me ¬
 --------------------
-- **🧩 WhatsApp   -   +55 41 98805-5191**
-- **📧 Email   -   jpsflores2000@gmail.com**
-- **👤 LinkedIn   -   linkedin.com/in/johnflowers78**
+- **  🧩 WhatsApp   -   +55 41 98805-5191  **
+- **  📧 Email   -   jpsflores2000@gmail.com  **
+- **  👤 LinkedIn   -   linkedin.com/in/johnflowers78  **
   
 👀 I'm open to any kind of dev work (I don’t really like front-end, but if that’s what’s on the table, I’ll handle it 🤷‍♂️).
 
